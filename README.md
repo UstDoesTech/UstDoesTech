@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ustdoestech" target="blank"><img src="https://img.shields.io/twitter/follow/ustdoestech?logo=twitter&style=for-the-badge" alt="ustdoestech" /></a> </p>
 
-- 🔭 I’m currently working on **client projects**
+- 🔭 I’m currently working on **a python wrapper for the Power BI API**
 
-- 🌱 I’m currently learning **Data Mesh**
+- 🌱 I’m currently learning **lots of Python**
 
 - 👨‍💻 All of my projects are available at [ustdoes.tech](ustdoes.tech)
 
