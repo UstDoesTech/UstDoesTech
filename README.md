@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [ustdoes.tech](ustdoes.tech)
 
-- 📝 I regularly write articles on [https://www.ustdoes.tech/posts](https://www.ustdoes.tech/posts)
+- 📝 I regularly write articles on [https://www.ustdoes.tech/](https://www.ustdoes.tech/)
 
 - 💬 Ask me about **Databricks, Data Engineering, BI, Azure**
 
