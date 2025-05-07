@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **lots of Python**
 
-- 👨‍💻 All of my articles are available at [ustdoes.tech](ustdoes.tech)
+- 👨‍💻 All of my articles are available at [ustdoes.tech](https://ustdoes.tech)
 
 - 💬 Ask me about **Databricks, Data Engineering, Data Analytics, BI, Azure, Data Strategy**
 
