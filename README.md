@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **lots of Python**
 
-- 👨‍💻 All of my projects are available at [ustdoes.tech](ustdoes.tech)
+- 👨‍💻 All of my articles are available at [ustdoes.tech](ustdoes.tech)
 
-- 📝 I regularly write articles on [https://www.ustdoes.tech/](https://www.ustdoes.tech/)
-
-- 💬 Ask me about **Databricks, Data Engineering, BI, Azure**
+- 💬 Ask me about **Databricks, Data Engineering, Data Analytics, BI, Azure, Data Strategy**
 
 - 📫 How to reach me **ust@ustdoes.tech**
 
