@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ustdoestech" target="blank"><img src="https://img.shields.io/twitter/follow/ustdoestech?logo=twitter&style=for-the-badge" alt="ustdoestech" /></a> </p>
 
-- 🔭 I’m currently working on **a python wrapper for the Power BI API**
+- 🔭 I’m currently working on **a bee inspired data processing framework**, **a policy as graph engine**, and **a service-oriented data architecture and governance framework**
 
-- 🌱 I’m currently learning **lots of Python**
+- 🌱 I’m currently learning **lots of Python**, **rust**, and **behavioural science**
 
 - 👨‍💻 All of my articles are available at [ustdoes.tech](https://ustdoes.tech)
 
